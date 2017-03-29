@@ -1,0 +1,8 @@
+# Define the goal
+string scope
+string command
+string[] nodes
+---
+# Define the result
+string message
+---
