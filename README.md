@@ -21,11 +21,11 @@ If you do not have these keys already. You can create a new API key on the RANCH
 | service   | activate           | vocon-asr          |
 |   	    	| deactivate    	   | vocon-asr          |
 |   	    	| remove  	         | ork	    	        |
-|-----------|--------------------|--------------------|
+|           |                    |                    |
 | stack     | deactivateservices | people-detection	  |
 |           | activateservices   | slam    	          |
 |           | remove             | slam    	          |
-|-----------|--------------------|--------------------|
+|           |                    |                    |
 | container | start              | x11-rviz-1      	  |
 |           | stop               | x11-node-manager-1 |
 |           | restart            | camera-xtion-1     |
